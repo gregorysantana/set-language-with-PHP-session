@@ -3,4 +3,9 @@ set language with PHP session
 
 You need only include PHP file.
 
-<?php include 'lang_config.php';  ?>
+ # include 'lang_config.php';
+
+And set session start in top
+
+# session_start();
+
